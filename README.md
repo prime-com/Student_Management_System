@@ -3,8 +3,6 @@ This was my first project!
 
 A desktop application built with **Java Swing** and **MySQL** (JDBC) for managing student records, with separate Admin and Student roles.
 
-![Admin view](View%20records%20%28Admin%20view%29.png)
-
 ## Features
 
 **Admin**
