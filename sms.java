@@ -12,28 +12,3 @@ public class sms {
 //rm -f *.class
 //  javac -cp "$(pwd)/mysql-connector-j-8.1.0.jar:." *.java
 //  java -cp "$(pwd)/mysql-connector-j-8.1.0.jar:." sms
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//  mysql -u root -p
-// SHOW DATABASES;
-// SHOW TABLES;
-// SELECT * FROM students;
-// 
